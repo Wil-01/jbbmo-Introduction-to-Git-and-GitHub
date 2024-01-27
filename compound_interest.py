@@ -1,3 +1,4 @@
+#https://github.com/Wil-01/jbbmo-Introduction-to-Git-and-GitHub/branches
 # This script calculates yearly compound interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
